@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: linear-gradient(to right,hsla(158, 100%, 77%, 0.4), hsla(211, 33%, 27%, 1)); */
+  height: 100vh;
+}
